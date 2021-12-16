@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "texb";
+    src: url('texb.ttf') format('truetype'); 
+}
+
+h1 {
+    font-family: "texb", arial-narrow, sans-serif;
+    text-align: center;
+    font-size: 200px;
+    font-weight: bold;
+    font-variant: small-caps;
+}

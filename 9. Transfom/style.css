@@ -1,0 +1,16 @@
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.clas {
+    width: 200px;
+    height: 200px;
+    background-color: darksalmon;
+    margin: 50px auto;
+    transition: 0.5s;
+}
+
+.clas:hover {
+    transform: scale(1.5) rotate(90deg);
+}

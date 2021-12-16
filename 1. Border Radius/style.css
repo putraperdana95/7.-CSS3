@@ -1,0 +1,38 @@
+.satu {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(235, 139, 15);
+    border-radius: 50%;
+    line-height: 300px;
+    text-align: center;
+}
+
+
+.dua {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(235, 139, 15);
+    background-image: url(pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0 50% 50% 50%;
+    line-height: 300px;
+    text-align: center;
+    margin-top: 20px;
+    border: 3px solid black
+}
+
+.tiga {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(235, 139, 15);
+    background-image: url(pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    line-height: 300px;
+    text-align: center;
+    margin-top: 20px;
+    border: 3px solid black
+}

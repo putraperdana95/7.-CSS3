@@ -1,0 +1,24 @@
+.kotak {
+    width: 200px;
+    height: 200px;
+    background-color: darkgreen;
+    animation: animasi 3s ease  infinite;
+}
+
+
+@keyframes animasi {
+    0%    {
+        width: 5px;
+        height: 5px;
+    }
+
+    50% {
+        width: 250px;
+        height: 250px;
+    }
+
+    100% {
+        width: 500px;
+        height: 500px;
+    }
+}
